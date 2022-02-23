@@ -1,7 +1,10 @@
 # leetcode
+### 双指针
+[917. 仅仅反转字母](FULL/917-仅仅反转字母.md)
 
 ### 排序算法
 [剑指 Offer 51. 数组中的逆序对](/剑指offer（第2版）/剑指%20Offer%2051-数组中的逆序对.md)
+
 ### 动态规划
 [688. 骑士在棋盘上的概率](https://blog.csdn.net/Fiona_77/article/details/122981745)
 
@@ -10,6 +13,7 @@
 
 ### 投票法
 [剑指 Offer 39. 数组中出现次数超过一半的数字](https://blog.51cto.com/u_12715480/3687464)
+
 ### 数学题
 [1447. 最简分数](https://blog.csdn.net/Fiona_77/article/details/122862149)
 
